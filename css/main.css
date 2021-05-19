@@ -98,6 +98,10 @@ img {
   background-color: #ffffff;
 }
 
+.about a:link, .about a:visited {
+  color: #263959;
+}
+
 .about {
   margin: 0 0 40px;
   text-align: center;
